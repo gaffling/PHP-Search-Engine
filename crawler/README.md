@@ -5,6 +5,8 @@ Seeds (Initial Database)
 Read
 ----
 
+https://boyter.org/2013/01/code-for-a-search-engine-in-php-part-1/#the-crawler
+
 What Makes a Good Seed Site for Search Engine Web Crawls?
 
 http://www.seobythesea.com/2010/05/what-makes-a-good-seed-site-for-search-engine-web-crawls/
