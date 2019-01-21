@@ -19,6 +19,8 @@ https://ak.quantcast.com/quantcast-top-sites.zip
 
 http://downloads.majesticseo.com/majestic_million.csv
 
+http://zone-file.com/free/top-1m_sites-www.zone-file.com.zip
+
 
 Take a look at
 --------------
