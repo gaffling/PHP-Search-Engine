@@ -1,4 +1,7 @@
 <?php
+
+// DOWNLOAD THE Quantcast-Top-Million.txt HERE: https://ak.quantcast.com/quantcast-top-sites.zip 
+
 $file_handle = fopen("Quantcast-Top-Million.txt", "r");
 
 while (!feof($file_handle)) {
