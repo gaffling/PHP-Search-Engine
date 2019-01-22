@@ -21,6 +21,8 @@ http://downloads.majesticseo.com/majestic_million.csv
 
 http://zone-file.com/free/top-1m_sites-www.zone-file.com.zip
 
+https://www.domcop.com/files/top/top10milliondomains.csv.zip
+
 http://curlz.org/dmoz_rdf/
 
 
