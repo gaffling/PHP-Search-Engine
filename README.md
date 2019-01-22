@@ -37,9 +37,6 @@ Data
 
 https://www.dropbox.com/s/vf4uif4yfj8junf/documents.tar.gz?dl=0
 
-https://blog.majestic.com/development/majestic-million-csv-daily/
-
-https://www.quantcast.com/top-sites/
 
 
 Read
